@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.SurveyApp.claimRewardTest.unit.ClaimRewardImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-14T21:04:44.658Z" hostname="fellpsnator" time="0.045">
-  <properties/>
-  <testcase name="claimRewardImplTest()" classname="com.SurveyApp.claimRewardTest.unit.ClaimRewardImplTest" time="0.008"/>
-  <system-out><![CDATA[2026-03-14T22:04:44.663+01:00  INFO 185110 --- [SurveyApp] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.SurveyApp.claimRewardTest.unit.ClaimRewardImplTest]: ClaimRewardImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-2026-03-14T22:04:44.686+01:00  INFO 185110 --- [SurveyApp] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.SurveyApp.SurveyAppApplication for test class com.SurveyApp.claimRewardTest.unit.ClaimRewardImplTest
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

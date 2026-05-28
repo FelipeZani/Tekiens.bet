@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.SurveyApp.modelTest.UserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-14T21:04:44.727Z" hostname="fellpsnator" time="0.004">
-  <properties/>
-  <testcase name="constructorTest()" classname="com.SurveyApp.modelTest.UserTest" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
