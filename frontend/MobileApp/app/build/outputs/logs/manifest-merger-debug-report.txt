@@ -1,0 +1,445 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/a47028ed0083b0fdf310c6e02a264ada/transformed/material3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8e182d5ebfeff73c8dd6b0bf52763341/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.8.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/e0cd195faa417f1f6b01b2d6946eb9da/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/44e6adaf5b46db3de503e3a986cb0c31/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8d227063b2b0a5086e3d21b7656e1ea4/transformed/foundation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/284dc2fb152113edfcdadc2b0d4e5da3/transformed/foundation-layout/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/7431d7260ddf78e337f12b401a8cbf2a/transformed/animation-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3de6e7f6751ef3794731881e7f4cb0e2/transformed/animation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/04c74d9449b43c2d289dd99fcf8cc065/transformed/ui-util/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d5f2d7d4aeb0e8e0388b87ffdc6f1997/transformed/ui-unit/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/bd36471b9b9b6bf32c58ff0785a965b5/transformed/ui-text/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/801f333d64fd9e7ff40361dd4971910c/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/c82f55001c65841586cff18efd95967c/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/363fda497b991306a304e928da31b476/transformed/ui-graphics/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.activity:activity-ktx:1.12.2] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/e28cda445b76b82ea4abaaed6257c82b/transformed/activity-ktx-1.12.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.12.2] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9eeac3e3d6286492cdc0384e60e286dc/transformed/activity-1.12.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.12.2] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/12335791ad330378c341361f8782292a/transformed/activity-compose-1.12.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/075a04fd22733ea3678448b289d236f8/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8158d529ebe4bb62f00f8043d16eddd2/transformed/navigationevent/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/aca931d0acf30ebe056d59eb9bd41626/transformed/navigationevent-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/e24678f67f09b1310cbd337694350bac/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/effdd3eb307cf7dfd7734b9904ef6f9b/transformed/runtime-retain/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9dae5d346436493240a9b29bef8ed63a/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0ddb7f7a219e8e20c0372befaf83f748/transformed/savedstate/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1a02cd3af254b6562e732aaa99da932f/transformed/savedstate-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/ae9aebe5545724fc62007164923686c4/transformed/runtime/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/51303e6fbeae92f47d7a46d210e24849/transformed/runtime-saveable/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.6.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/667895e7d1db7e66dcd687c03dc2e7d3/transformed/transition-1.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/982d94f099f336abab58e4e9ac3f2183/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/2123a1b453944ee63c22132b57566070/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/2e008fa2d396915d8401698699ad93e8/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/cac08f0be7f2773faeea498395326426/transformed/lifecycle-livedata-core-ktx-2.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/cf7b6732ec8fd508d3e9478c91972c31/transformed/lifecycle-livedata-2.10.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/4360bde1f13c9ff85afbbc89df844923/transformed/lifecycle-livedata-core-2.10.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/6243873a7fcdb3da1d6195d05f8edc58/transformed/lifecycle-runtime-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/56139757f25ca38415a8c033d76153f7/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3750ac1fc5694fa9e9b54521025d2dfa/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/ec51cca4880e97612a6850cff3d8d529/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-core-android:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/f1fd992e012fc4c47684020156b801a5/transformed/window-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3802a1cf6abcdc25c772731d27115f29/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/4dbfaa723c6e31e0e51a235928be3b8d/transformed/lifecycle-runtime/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/a6b1617e490277316804de9f0063b5f9/transformed/lifecycle-viewmodel-2.10.0/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/de904dd3ed74c8b97c2ed8fe4fb6d623/transformed/lifecycle-viewmodel/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8a3951f2f7379d8a28dc3e138a9a80bf/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9828e99c935cc3ee91c52e9cc6d6735a/transformed/lifecycle-viewmodel-ktx-2.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1a8e96e777e6eee314f18099adc97158/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3063782e98ba4e017fa23d184496d5a2/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d3a8ef244085ae90338e0ba8390c6056/transformed/ui/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3b3163c4d989ee0f2e6f1dff0c258d23/transformed/datastore-preferences-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1bb56c6a3d586d3aa05ea62895c88604/transformed/datastore-preferences/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/6276d430036b5cc78ec40ca34c10b1ec/transformed/datastore/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-core-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d3e3d70ab4720321d6945eb39b31e19f/transformed/datastore-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-rxjava3:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/6a37c647ea29d9d2fc01bfab17195173/transformed/datastore-rxjava3-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-rxjava3:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/f3f001b74a4df73c6da7b527f46c26e8/transformed/datastore-preferences-rxjava3-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [io.arrow-kt:arrow-core-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d55210180dd7cac91f4cf099dca4ea1b/transformed/arrow-core/AndroidManifest.xml:2:1-7:12
+MERGED from [br.com.devsrsouza.compose.icons:font-awesome-android:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/12b5b70e2d41db222af410981eb2c320/transformed/font-awesome-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/bbd0746abac25097226292f3b202cb8e/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/fe19a512b653102ab99b82eea0e8586f/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [io.arrow-kt:arrow-atomic-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e0174a68870e1df3553ba2e917618f7/transformed/arrow-atomic/AndroidManifest.xml:2:1-7:12
+MERGED from [io.arrow-kt:arrow-annotations-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/adf092ca0af4f9741694aaa162c3c051/transformed/arrow-annotations/AndroidManifest.xml:2:1-7:12
+MERGED from [io.arrow-kt:arrow-exception-utils-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/7e1fa7cb2f48048c9526b2fe078cd038/transformed/arrow-exception-utils/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/094646bf7791f75aaa185a80e50aa481/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/17f0392f1eefadccbcbe9b81e504895f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.2.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/72558b3cf4d8a40ca8b50d4ee0a1ab3a/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/94997470ee297b92185fb735d25d00a8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/b045392d71ceee9dfb3c86d97c48cab3/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/99c7d1e3ae77ffe87eb421a71ec4a895/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/4c8cbea8e4e25c5ce57922bda8f76f83/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/89f105bd01c002fac14224429c76fbea/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:7:5-39:19
+INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:7:5-39:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/094646bf7791f75aaa185a80e50aa481/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/094646bf7791f75aaa185a80e50aa481/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/17f0392f1eefadccbcbe9b81e504895f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/17f0392f1eefadccbcbe9b81e504895f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:16:9-53
+	android:networkSecurityConfig
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:13:9-69
+	android:dataExtractionRules
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:9:9-65
+activity#com.example.surveymobileapp.mainScreen.MainScreenActivity
+ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:20:13-63
+	android:exported
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:21:13-57
+	android:name
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:18:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.example.surveymobileapp.MainActivity
+ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:28:9-38:20
+	android:label
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:31:13-45
+	android:exported
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:32:13-57
+	android:name
+		ADDED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:29:13-41
+uses-sdk
+INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/a47028ed0083b0fdf310c6e02a264ada/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/a47028ed0083b0fdf310c6e02a264ada/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8e182d5ebfeff73c8dd6b0bf52763341/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8e182d5ebfeff73c8dd6b0bf52763341/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.8.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/e0cd195faa417f1f6b01b2d6946eb9da/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.8.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/e0cd195faa417f1f6b01b2d6946eb9da/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/44e6adaf5b46db3de503e3a986cb0c31/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/44e6adaf5b46db3de503e3a986cb0c31/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8d227063b2b0a5086e3d21b7656e1ea4/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8d227063b2b0a5086e3d21b7656e1ea4/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/284dc2fb152113edfcdadc2b0d4e5da3/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/284dc2fb152113edfcdadc2b0d4e5da3/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/7431d7260ddf78e337f12b401a8cbf2a/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/7431d7260ddf78e337f12b401a8cbf2a/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3de6e7f6751ef3794731881e7f4cb0e2/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3de6e7f6751ef3794731881e7f4cb0e2/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/04c74d9449b43c2d289dd99fcf8cc065/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/04c74d9449b43c2d289dd99fcf8cc065/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d5f2d7d4aeb0e8e0388b87ffdc6f1997/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d5f2d7d4aeb0e8e0388b87ffdc6f1997/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/bd36471b9b9b6bf32c58ff0785a965b5/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/bd36471b9b9b6bf32c58ff0785a965b5/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/801f333d64fd9e7ff40361dd4971910c/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/801f333d64fd9e7ff40361dd4971910c/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/c82f55001c65841586cff18efd95967c/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/c82f55001c65841586cff18efd95967c/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/363fda497b991306a304e928da31b476/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/363fda497b991306a304e928da31b476/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.12.2] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/e28cda445b76b82ea4abaaed6257c82b/transformed/activity-ktx-1.12.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.12.2] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/e28cda445b76b82ea4abaaed6257c82b/transformed/activity-ktx-1.12.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.12.2] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9eeac3e3d6286492cdc0384e60e286dc/transformed/activity-1.12.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.12.2] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9eeac3e3d6286492cdc0384e60e286dc/transformed/activity-1.12.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.12.2] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/12335791ad330378c341361f8782292a/transformed/activity-compose-1.12.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.12.2] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/12335791ad330378c341361f8782292a/transformed/activity-compose-1.12.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/075a04fd22733ea3678448b289d236f8/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/075a04fd22733ea3678448b289d236f8/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8158d529ebe4bb62f00f8043d16eddd2/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8158d529ebe4bb62f00f8043d16eddd2/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/aca931d0acf30ebe056d59eb9bd41626/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/aca931d0acf30ebe056d59eb9bd41626/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/e24678f67f09b1310cbd337694350bac/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/e24678f67f09b1310cbd337694350bac/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/effdd3eb307cf7dfd7734b9904ef6f9b/transformed/runtime-retain/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/effdd3eb307cf7dfd7734b9904ef6f9b/transformed/runtime-retain/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9dae5d346436493240a9b29bef8ed63a/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9dae5d346436493240a9b29bef8ed63a/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0ddb7f7a219e8e20c0372befaf83f748/transformed/savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0ddb7f7a219e8e20c0372befaf83f748/transformed/savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1a02cd3af254b6562e732aaa99da932f/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1a02cd3af254b6562e732aaa99da932f/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/ae9aebe5545724fc62007164923686c4/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/ae9aebe5545724fc62007164923686c4/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/51303e6fbeae92f47d7a46d210e24849/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/51303e6fbeae92f47d7a46d210e24849/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.6.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/667895e7d1db7e66dcd687c03dc2e7d3/transformed/transition-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.6.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/667895e7d1db7e66dcd687c03dc2e7d3/transformed/transition-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/982d94f099f336abab58e4e9ac3f2183/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/982d94f099f336abab58e4e9ac3f2183/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/2123a1b453944ee63c22132b57566070/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/2123a1b453944ee63c22132b57566070/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/2e008fa2d396915d8401698699ad93e8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/2e008fa2d396915d8401698699ad93e8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/cac08f0be7f2773faeea498395326426/transformed/lifecycle-livedata-core-ktx-2.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/cac08f0be7f2773faeea498395326426/transformed/lifecycle-livedata-core-ktx-2.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/cf7b6732ec8fd508d3e9478c91972c31/transformed/lifecycle-livedata-2.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/cf7b6732ec8fd508d3e9478c91972c31/transformed/lifecycle-livedata-2.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/4360bde1f13c9ff85afbbc89df844923/transformed/lifecycle-livedata-core-2.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/4360bde1f13c9ff85afbbc89df844923/transformed/lifecycle-livedata-core-2.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/6243873a7fcdb3da1d6195d05f8edc58/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/6243873a7fcdb3da1d6195d05f8edc58/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/56139757f25ca38415a8c033d76153f7/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/56139757f25ca38415a8c033d76153f7/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3750ac1fc5694fa9e9b54521025d2dfa/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3750ac1fc5694fa9e9b54521025d2dfa/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/ec51cca4880e97612a6850cff3d8d529/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/ec51cca4880e97612a6850cff3d8d529/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-core-android:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/f1fd992e012fc4c47684020156b801a5/transformed/window-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/f1fd992e012fc4c47684020156b801a5/transformed/window-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3802a1cf6abcdc25c772731d27115f29/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3802a1cf6abcdc25c772731d27115f29/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/4dbfaa723c6e31e0e51a235928be3b8d/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/4dbfaa723c6e31e0e51a235928be3b8d/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/a6b1617e490277316804de9f0063b5f9/transformed/lifecycle-viewmodel-2.10.0/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/a6b1617e490277316804de9f0063b5f9/transformed/lifecycle-viewmodel-2.10.0/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/de904dd3ed74c8b97c2ed8fe4fb6d623/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/de904dd3ed74c8b97c2ed8fe4fb6d623/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8a3951f2f7379d8a28dc3e138a9a80bf/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8a3951f2f7379d8a28dc3e138a9a80bf/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9828e99c935cc3ee91c52e9cc6d6735a/transformed/lifecycle-viewmodel-ktx-2.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9828e99c935cc3ee91c52e9cc6d6735a/transformed/lifecycle-viewmodel-ktx-2.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1a8e96e777e6eee314f18099adc97158/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1a8e96e777e6eee314f18099adc97158/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3063782e98ba4e017fa23d184496d5a2/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3063782e98ba4e017fa23d184496d5a2/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d3a8ef244085ae90338e0ba8390c6056/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d3a8ef244085ae90338e0ba8390c6056/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3b3163c4d989ee0f2e6f1dff0c258d23/transformed/datastore-preferences-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/3b3163c4d989ee0f2e6f1dff0c258d23/transformed/datastore-preferences-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1bb56c6a3d586d3aa05ea62895c88604/transformed/datastore-preferences/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1bb56c6a3d586d3aa05ea62895c88604/transformed/datastore-preferences/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/6276d430036b5cc78ec40ca34c10b1ec/transformed/datastore/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/6276d430036b5cc78ec40ca34c10b1ec/transformed/datastore/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d3e3d70ab4720321d6945eb39b31e19f/transformed/datastore-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d3e3d70ab4720321d6945eb39b31e19f/transformed/datastore-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-rxjava3:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/6a37c647ea29d9d2fc01bfab17195173/transformed/datastore-rxjava3-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-rxjava3:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/6a37c647ea29d9d2fc01bfab17195173/transformed/datastore-rxjava3-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-rxjava3:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/f3f001b74a4df73c6da7b527f46c26e8/transformed/datastore-preferences-rxjava3-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-rxjava3:1.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/f3f001b74a4df73c6da7b527f46c26e8/transformed/datastore-preferences-rxjava3-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [io.arrow-kt:arrow-core-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d55210180dd7cac91f4cf099dca4ea1b/transformed/arrow-core/AndroidManifest.xml:5:5-44
+MERGED from [io.arrow-kt:arrow-core-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/d55210180dd7cac91f4cf099dca4ea1b/transformed/arrow-core/AndroidManifest.xml:5:5-44
+MERGED from [br.com.devsrsouza.compose.icons:font-awesome-android:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/12b5b70e2d41db222af410981eb2c320/transformed/font-awesome-release/AndroidManifest.xml:5:5-44
+MERGED from [br.com.devsrsouza.compose.icons:font-awesome-android:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/12b5b70e2d41db222af410981eb2c320/transformed/font-awesome-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/bbd0746abac25097226292f3b202cb8e/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/bbd0746abac25097226292f3b202cb8e/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/fe19a512b653102ab99b82eea0e8586f/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/fe19a512b653102ab99b82eea0e8586f/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [io.arrow-kt:arrow-atomic-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e0174a68870e1df3553ba2e917618f7/transformed/arrow-atomic/AndroidManifest.xml:5:5-44
+MERGED from [io.arrow-kt:arrow-atomic-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e0174a68870e1df3553ba2e917618f7/transformed/arrow-atomic/AndroidManifest.xml:5:5-44
+MERGED from [io.arrow-kt:arrow-annotations-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/adf092ca0af4f9741694aaa162c3c051/transformed/arrow-annotations/AndroidManifest.xml:5:5-44
+MERGED from [io.arrow-kt:arrow-annotations-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/adf092ca0af4f9741694aaa162c3c051/transformed/arrow-annotations/AndroidManifest.xml:5:5-44
+MERGED from [io.arrow-kt:arrow-exception-utils-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/7e1fa7cb2f48048c9526b2fe078cd038/transformed/arrow-exception-utils/AndroidManifest.xml:5:5-44
+MERGED from [io.arrow-kt:arrow-exception-utils-android:2.2.2.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/7e1fa7cb2f48048c9526b2fe078cd038/transformed/arrow-exception-utils/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/094646bf7791f75aaa185a80e50aa481/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/094646bf7791f75aaa185a80e50aa481/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/17f0392f1eefadccbcbe9b81e504895f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/17f0392f1eefadccbcbe9b81e504895f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.2.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/72558b3cf4d8a40ca8b50d4ee0a1ab3a/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/72558b3cf4d8a40ca8b50d4ee0a1ab3a/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/94997470ee297b92185fb735d25d00a8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/94997470ee297b92185fb735d25d00a8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/b045392d71ceee9dfb3c86d97c48cab3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/b045392d71ceee9dfb3c86d97c48cab3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/99c7d1e3ae77ffe87eb421a71ec4a895/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/99c7d1e3ae77ffe87eb421a71ec4a895/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/4c8cbea8e4e25c5ce57922bda8f76f83/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/4c8cbea8e4e25c5ce57922bda8f76f83/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/89f105bd01c002fac14224429c76fbea/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/89f105bd01c002fac14224429c76fbea/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:23:9-26:79
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:26:13-76
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/094646bf7791f75aaa185a80e50aa481/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/094646bf7791f75aaa185a80e50aa481/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#com.example.surveymobileapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.surveymobileapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

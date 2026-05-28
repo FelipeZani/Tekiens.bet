@@ -1,0 +1,188 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.surveymobileapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="36" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.surveymobileapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.surveymobileapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:7:5-39:19
+20        android:allowBackup="true"
+20-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.16.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/1f3223ca71fb24975f06543832a083f9/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:9:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:10:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:11:9-43
+27        android:label="@string/app_name"
+27-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:12:9-41
+28        android:networkSecurityConfig="@xml/network_security_config"
+28-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:13:9-69
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:14:9-54
+30        android:supportsRtl="true"
+30-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:15:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.SurveyMobileApp" >
+32-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:16:9-53
+33        <activity
+33-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:17:9-27:20
+34            android:name="com.example.surveymobileapp.mainScreen.MainScreenActivity"
+34-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:18:13-58
+35            android:exported="true"
+35-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:19:13-36
+36            android:label="@string/title_activity_main_screen"
+36-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:20:13-63
+37            android:theme="@style/Theme.SurveyMobileApp" >
+37-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:21:13-57
+38            <intent-filter>
+38-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:22:13-26:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:23:17-69
+39-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:23:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:25:17-77
+41-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:25:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:28:9-38:20
+45            android:name="com.example.surveymobileapp.MainActivity"
+45-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:29:13-41
+46            android:exported="true"
+46-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:30:13-36
+47            android:label="@string/app_name"
+47-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:31:13-45
+48            android:theme="@style/Theme.SurveyMobileApp" >
+48-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:32:13-57
+49            <intent-filter>
+49-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:22:13-26:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:23:17-69
+50-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:23:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:25:17-77
+52-->/home/fellps/Documents/dev/ProjetEnquete/Project/MobileApp/app/src/main/AndroidManifest.xml:25:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->[androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+56            android:name="androidx.compose.ui.tooling.PreviewActivity"
+56-->[androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+57            android:exported="true" />
+57-->[androidx.compose.ui:ui-tooling-android:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/719d5c101e4b274da63141c7fb289289/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+58        <activity
+58-->[androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:23:9-26:79
+59            android:name="androidx.activity.ComponentActivity"
+59-->[androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:24:13-63
+60            android:exported="true"
+60-->[androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:25:13-36
+61            android:theme="@android:style/Theme.Material.Light.NoActionBar" />
+61-->[androidx.compose.ui:ui-test-manifest:1.10.5] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/9c3883c5e9e3ebab33e55937e1966cb2/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:26:13-76
+62
+63        <provider
+63-->[androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+64            android:name="androidx.startup.InitializationProvider"
+64-->[androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+65            android:authorities="com.example.surveymobileapp.androidx-startup"
+65-->[androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+66            android:exported="false" >
+66-->[androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+67            <meta-data
+67-->[androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+68-->[androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+69                android:value="androidx.startup" />
+69-->[androidx.emoji2:emoji2:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/0e9c873f7d791031b3da3d2550912dcc/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+70            <meta-data
+70-->[androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+71-->[androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:30:17-78
+72                android:value="androidx.startup" />
+72-->[androidx.lifecycle:lifecycle-process:2.10.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/626bddd4c6f30542cb3b551e750dc79e/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:31:17-49
+73            <meta-data
+73-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+74-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+75                android:value="androidx.startup" />
+75-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+76        </provider>
+77
+78        <uses-library
+78-->[androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
+79            android:name="androidx.window.extensions"
+79-->[androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
+80            android:required="false" />
+80-->[androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
+81        <uses-library
+81-->[androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
+82            android:name="androidx.window.sidecar"
+82-->[androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:27:13-51
+83            android:required="false" />
+83-->[androidx.window:window:1.5.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/253864c82ca34d3c4443ff4095f01576/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
+84
+85        <receiver
+85-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+86            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+86-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+87            android:directBootAware="false"
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+88            android:enabled="true"
+88-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+89            android:exported="true"
+89-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+90            android:permission="android.permission.DUMP" >
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+92                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+92-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+92-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+93            </intent-filter>
+94            <intent-filter>
+94-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+95                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+96            </intent-filter>
+97            <intent-filter>
+97-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+98                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+98-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+99            </intent-filter>
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+101                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+101-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+101-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/fellps/AndroidStudioProjects/JeCode/ApplicationTest/gradle/caches/9.1.0/transforms/8de791b921f1ba257c800ff5f86cd490/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+102            </intent-filter>
+103        </receiver>
+104    </application>
+105
+106</manifest>
